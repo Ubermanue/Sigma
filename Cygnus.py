@@ -3,8 +3,8 @@ from math import prod as MixNMatch
 
 
 
-__github__ = 'https://github.com/sintxcs'
-__author__ = 'Sintacs Ao'
+__github__ = 'https://github.com/ubermanue'
+__author__ = 'uber'
 
 __code__ = 'print("Xièxiè!")'
 
@@ -17,7 +17,7 @@ class Sprite:
         self.Coffee(_sintacsao=-52933)
 
     def Coffee(self, _sintacsao = False):
-        # https://github.com/sintxcs
+        # https://github.com/ubermanue 
         self._spaghetti += 62481 * _sintacsao
         
         try:
